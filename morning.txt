@@ -1,0 +1,13 @@
+""" A program that I run every morning. Ideas:
+food from dining halls
+make playlist for day
+choose 5 random fb friends
+has events for the day
+weather
+to - do list (short term or for the entire day)
+goals for the day
+inspirational quote / most read nytimes article from the day before for some early reading
+popular tweets from nearby
+
+make as a website that opens itself up. 
+"""
